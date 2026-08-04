@@ -10,4 +10,4 @@ Proje Sahibi ve Geliştirici: Yavuz Selim Konak
 Kapsam: BiyoAkustikLaboratuvari, GorselLaboratuvari ve RetroTerminalApp sınıflarını içeren tüm modüller, akustik işleme, optik analiz algoritmaları ve arayüz tasarımlarının tamamı tamamen Yavuz Selim Konak'a aittir. Tüm fikri mülkiyet hakları saklıdır.
 
 İyi Analizler:)))))))
-githubdaki adım için üzgünüm ayarlayamadım.
+
